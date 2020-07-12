@@ -1505,7 +1505,7 @@ html {
 }
 
 .s-header.sticky .header-logo a {
-    margin: 0;
+    margin: 10px 0px 0px -65px;
 }
 
 .s-header.sticky .header-nav-wrap {
@@ -1538,11 +1538,11 @@ html {
 
 .header-logo a {
     display: block;
-    margin: 9px 0 0 0;
+    margin: 5px 0px 0px -65px;
     padding: 0;
     outline: 0;
     border: none;
-    width: 80px;
+    width: 150px;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 
@@ -2218,7 +2218,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 
 .s-about {
-    padding-top: 15rem;
+    padding-top: 10rem;
     padding-bottom: 9rem;
     background-color: #FFFFFF;
     position: relative;
